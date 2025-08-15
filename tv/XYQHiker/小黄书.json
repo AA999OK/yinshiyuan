@@ -73,7 +73,7 @@
 "详情是否Jsoup写法":"1",
 "地区详情":".hero-title-item&&Text",
 "年份详情":".hero-title-item&&Text",
-"导演详情":".video-detail&&.item:eq(-1)&&Text",
+"导演详情":"'TAG'+.tag&&Text",
 "演员详情":".model-container&&Text",
 "类型详情":"'标签'+.tag&&Text",
 "简介详情":".video-detail&&Text",
