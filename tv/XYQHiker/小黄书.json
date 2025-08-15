@@ -30,6 +30,7 @@
 //首页推荐片单链接补后缀(可不写)
 "首页片单链接加后缀":"",
 //以上首页推荐类的数据可不写（因为展示的意义不大）
+//分类是一级
 //分类页数据开始
 "分类起始页码":"1",
 //（示例）"分类链接":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{by}{catePg}.html",
@@ -47,6 +48,7 @@
 "分类片单副标题":"'⏱️'+.fa-clock&&Text+.tags&&Text",
 "分类片单链接加前缀":"https://xchina.co",
 "分类片单链接加后缀":"",
+//搜索是一级
 "搜索请求头参数":"User-Agent$手机",
 //搜索链接https://xchina.co/videos/keyword-美女/3.html
 "搜索链接":"https://xchina.co/videos/keyword-{wd}/{catePg}.html",
@@ -67,12 +69,13 @@
 "直接播放链接加后缀":"",
 "直接播放直链视频请求头":"",
 //-------
+//详情是二级
 "详情是否Jsoup写法":"0",
-"类型详情":".text-muted&&a&&Text",
-"年代详情":"",
-"地区详情":"",
-"演员详情":"导演：</span>&&</p>",
-"简介详情":"概要：</span>&&</p>",
+"类型详情":".item:eq(3)&&Text",
+"年代详情":".item:eq(5)&&Text",
+"地区详情":".item:eq(4)&&Text",
+"演员详情":".item:eq(1)&&Text",
+"简介详情":".hero-title-item&&Text",
 "线路列表数组规则":".stui-pannel__head&&h3",
 "线路标题":".title&&Text",
 "播放列表数组规则":".stui-content__playlist",
