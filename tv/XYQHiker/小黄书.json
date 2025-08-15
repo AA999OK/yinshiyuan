@@ -45,7 +45,8 @@
 "分类片单标题":"a&&title",
 "分类片单链接":"a&&href",
 "分类片单图片":".img&&style",
-"分类片单副标题":"'⏱️'+.fa-clock&&Text+.tags&&Text",
+//副标题是图片下方的说明小字
+"分类片单副标题":"'⏱️'+.tags&&Text+.fa-clock&&Text",
 "分类片单链接加前缀":"https://xchina.co",
 "分类片单链接加后缀":"",
 //搜索是一级
@@ -53,7 +54,7 @@
 //搜索链接https://xchina.co/videos/keyword-美女/3.html
 "搜索链接":"https://xchina.co/videos/keyword-{wd}/{catePg}.html",
 "POST请求数据":"0",
-"搜索截取模式":"0",
+"搜索截取模式":"1",
 //搜索列表数组（大主体&&小主体）
 "搜索列表数组规则":".video-list&&.video",
 "搜索片单是否Jsoup写法":"1",
