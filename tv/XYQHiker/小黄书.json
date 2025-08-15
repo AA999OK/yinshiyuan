@@ -33,7 +33,7 @@
 //分类是一级
 //分类页数据开始
 "分类起始页码":"1",
-//（示例）"分类链接":"https://www.l0l.tv/index.php/vod/show/id/{cateId}/page/{by}{catePg}.html",
+//（示例）"分类链接":"https://xchina.co/videos/series-63824a975d8ae/sort-read/3.html",
 "分类链接":"https://xchina.co/videos/{cateId}/{by}{catePg}.html",
 "分类名称":"中文AV&日本AV&模特私拍&业余拍摄&其他影片&情色电影",
 "分类名称替换词":"series-63824a975d8ae&series-6206216719462&series-6030196781d85&series-617d3e7acdcc8&series-60192e83c9e05&series-61c4d9b653b6d",
@@ -52,7 +52,7 @@
 //搜索是一级
 "搜索请求头参数":"User-Agent$MOBILE_UA",
 //搜索链接https://xchina.co/videos/keyword-美女/3.html
-"搜索链接":"https://xchina.co/videos/keyword-{wd}/{catePg}.html",
+"搜索链接":"https://xchina.co/videos/keyword-{wd}/{SearchPg}.html",
 "POST请求数据":"0",
 "搜索截取模式":"1",
 //搜索列表数组（大主体&&小主体）
