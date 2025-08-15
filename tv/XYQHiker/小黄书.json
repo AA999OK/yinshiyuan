@@ -50,7 +50,7 @@
 "分类片单链接加前缀":"https://xchina.co",
 "分类片单链接加后缀":"",
 //搜索是一级
-"搜索请求头参数":"User-Agent$手机",
+"搜索请求头参数":"User-Agent$MOBILE_UA",
 //搜索链接https://xchina.co/videos/keyword-美女/3.html
 "搜索链接":"https://xchina.co/videos/keyword-{wd}/{catePg}.html",
 "POST请求数据":"0",
@@ -64,12 +64,10 @@
 "搜索片单副标题":"'⏱️'+.fa-clock&&Text+.tags&&Text",
 "搜索片单链接加前缀":"https://xchina.co/",
 "搜索片单链接加后缀":"",
-//--------
 "链接是否直接播放":"1",
 "直接播放链接加前缀":"",
 "直接播放链接加后缀":"",
 "直接播放直链视频请求头":"",
-//-------
 //详情是二级
 "详情是否Jsoup写法":"1",
 "类型详情":".item:eq(3)&&Text",
