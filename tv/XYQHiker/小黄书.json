@@ -75,7 +75,7 @@
 "年份详情":".hero-title-item&&Text",
 "导演详情":".item:eq(-1)&&Text",
 "演员详情":".model-container&&Text",
-"类型详情":"'标签'.tag&&Text",
+"类型详情":"'标签'+.tag&&Text",
 "简介详情":".hero-title-item&&Text",
 "线路列表数组规则":".stui-pannel__head&&h3",
 "线路标题":".title&&Text",
