@@ -22,7 +22,7 @@
   "sites": [
 //type＝0api为资源站xml，type＝1api为资源站json，type=3api为jar内置js（js+json）🔞🌈🧲🚫✈️❌
 //置顶信息
-{"key":"csp_XYQHiker_小黄书x","name":"🔞小黄书✈️(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext": "https://gh-proxy.com/raw.githubusercontent.com/AA999OK/yinshiyuan/main/tv/XYQHiker/小黄书.json","style": {"type": "rect","ratio": 1.8}},
+{"key":"csp_XYQHiker_小黄书x","name":"🔞小黄书✈️(XYQH)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":0,"playerType":2,"ext": "https://gh-proxy.com/raw.githubusercontent.com/AA999OK/yinshiyuan/main/tv/XYQHiker/20252025.json","style": {"type": "rect","ratio": 1.8}},
 //综合信息（未分类）
 {"key":"csp_XYQHiker_pornhub","name": "🔞Pornhub(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/pornhub.json","style": {"type": "rect","ratio": 1.6}},
 {"key":"csp_XYQHiker_xvideos","name": "🔞Xvideos(XYQH)","type": 3,"api": "csp_XYQHiker","searchable": 1,"quickSearch": 0,"filterable": 0,"ext": "https://gh-proxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/XYQHiker/xvideos.json","style": {"type": "rect","ratio": 1.6}},
@@ -1661,4 +1661,5 @@
   
   ]
 }
+
 
