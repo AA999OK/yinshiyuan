@@ -35,8 +35,8 @@
 "分类起始页码":"1",
 //（示例）"分类链接":"https://xchina.co/videos/series-63824a975d8ae/sort-read/3.html",
 "分类链接":"https://xchina.co/videos/{cateId}/{by}{catePg}.html",
-"分类名称":"中文AV&日本AV&模特私拍&业余拍摄&其他影片&情色电影",
-"分类名称替换词":"series-63824a975d8ae&series-6206216719462&series-6030196781d85&series-617d3e7acdcc8&series-60192e83c9e05&series-61c4d9b653b6d",
+"分类名称":"中文AV&日本AV&模特私拍&业余拍摄&情色电影&其他影片",
+"分类名称替换词":"series-63824a975d8ae&series-6206216719462&series-6030196781d85&series-617d3e7acdcc8&series-61c4d9b653b6d&series-60192e83c9e05",
 "筛选数据":{},
 "分类截取模式":"1",
 //分类列表数组（大主体&&小主体）
@@ -99,7 +99,6 @@
 {"v":"series-63824a975d8ae","n":"中文AV"}, {"v":"series-5f904550b8fcc","n":"麻豆传媒"}, {"v":"series-5fe8403919165","n":"蜜桃传媒"}, {"v":"series-60153c49058ce","n":"天美传媒"}, {"v":"series-5fe840718d665","n":"果冻传媒"}, {"v":"series-61014080dbfde","n":"糖心Vlog"}, {"v":"series-60126bcfb97fa","n":"精东影业"}, {"v":"series-6054e93356ded","n":"星空传媒"}, {"v":"series-63490362dac45","n":"性视界"}, {"v":"series-6072997559b46","n":"杏吧原版"}, {"v":"series-64e9cce89da21","n":"IBiZa"}, {"v":"series-6230974ada989","n":"扣扣传媒"}, {"v":"series-6360ca9706ecb","n":"萝莉社"}, {"v":"series-63d134c7a0a15","n":"爱豆传媒"}, {"v":"series-61bf6e439fed6","n":"OnlyFans"}, {"v":"series-633ef3ef07d33","n":"SA国际传媒"}, {"v":"series-63986aec205d8","n":"其他中文AV"}, {"v":"series-6193d27975579","n":"葫芦影业"}, {"v":"series-637750ae0ee71","n":"乌托邦"}, {"v":"series-63732f5c3d36b","n":"ED"}, {"v":"series-60589daa8ff97","n":"乐播传媒"}, {"v":"series-639c8d983b7d5","n":"91茄子"}, {"v":"series-6405b6842705b","n":"爱神传媒"}, {"v":"series-6248705dab604","n":"抖阴"}, {"v":"series-64458e7da05e6","n":"哔哩传媒"}, {"v":"series-648e1071386ef","n":"西瓜影视"}, {"v":"series-64be8551bd0f1","n":"思春社"}, {"v":"series-64eda52c1c3fb","n":"YOYO"}, {"v":"series-6560dc053c99f","n":"映秀传媒"}, {"v":"series-65bcaa9688514","n":"大象传媒"}, {"v":"series-65e5f74e4605c","n":"香蕉视频"}
 ]
 },
-
   {"key":"by","name":"排序","value":[
   {"n":"时间","v":""},
   {"n":"观看最多","v":"sort-read/"},
@@ -121,31 +120,19 @@
   ]}],
 "series-6030196781d85":[
   {"key":"cateId","name":"分类","value":[
-  {"v":"series-6030196781d85","n":"模特私拍"}, {"v":"series-63963186ae145","n":"PANS视频"}, {"v":"series-63963534a9e49","n":"其他模特私拍"}, {"v":"series-6396315ed2e49","n":"果哥作品"}, {"v":"series-63ed0f22e9177","n":"相约中国"}, {"v":"series-6396319e6b823","n":"风吟鸟唱作品"}, {"v":"series-64edbeccedb2e","n":"热舞"}
-  ]},
-  {"key":"by","name":"排序","value":[
-    {"n":"时间","v":""},
-  {"n":"观看最多","v":"sort-read/"},
-  {"n":"评论最多","v":"sort-comment/"},
-  {"n":"最近评论","v":"sort-recent/"},
-  {"n":"时间最长","v":"sort-length/"}
-  ]}],
-  "series-617d3e7acdcc8":[
-  {"key":"cateId","name":"分类","value":[
-{"v":"series-617d3e7acdcc8","n":"业余拍摄"}, {"v":"series-63965bf7b7f51","n":"探花现场"}, {"v":"series-63965bd5335fc","n":"主播现场"}
+{"v":"series-6030196781d85","n":"模特私拍"}, {"v":"series-63963186ae145","n":"PANS视频"}, {"v":"series-63963534a9e49","n":"其他模特私拍"}, {"v":"series-6396315ed2e49","n":"果哥作品"}, {"v":"series-63ed0f22e9177","n":"相约中国"}, {"v":"series-6396319e6b823","n":"风吟鸟唱作品"}, {"v":"series-64edbeccedb2e","n":"热舞"}
 ]
 },
   {"key":"by","name":"排序","value":[
-    {"n":"时间","v":""},
+  {"n":"时间","v":""},
   {"n":"观看最多","v":"sort-read/"},
   {"n":"评论最多","v":"sort-comment/"},
   {"n":"最近评论","v":"sort-recent/"},
   {"n":"时间最长","v":"sort-length/"}
   ]}],
-"series-60192e83c9e05":[
-
-{"key":"cateId","name":"分类","value":[
-{"v":"series-60192e83c9e05","n":"其他影片"}, {"v":"series-63963ea949a82","n":"其他亚洲影片"}, {"v":"series-63963de3f2a0f","n":"门事件"}, {"v":"series-6396404e6bdb5","n":"其他欧美影片"}
+"series-617d3e7acdcc8":[
+  {"key":"cateId","name":"分类","value":[
+{"v":"series-617d3e7acdcc8","n":"业余拍摄"}, {"v":"series-63965bf7b7f51","n":"探花现场"}, {"v":"series-63965bd5335fc","n":"主播现场"}
 ]
 },
   {"key":"by","name":"排序","value":[
@@ -156,9 +143,20 @@
   {"n":"时间最长","v":"sort-length/"}
   ]}],
 "series-61c4d9b653b6d":[
-
-{"key":"cateId","name":"分类","value":[
+  {"key":"cateId","name":"分类","value":[
 {"v":"series-61c4d9b653b6d","n":"情色电影"}, {"v":"series-6396492fdb1a0","n":"华语电影"}, {"v":"series-6396494584b57","n":"日韩电影"}, {"v":"series-63964959ddb1b","n":"欧美电影"}
+]
+},
+  {"key":"by","name":"排序","value":[
+  {"n":"时间","v":""},
+  {"n":"观看最多","v":"sort-read/"},
+  {"n":"评论最多","v":"sort-comment/"},
+  {"n":"最近评论","v":"sort-recent/"},
+  {"n":"时间最长","v":"sort-length/"}
+  ]}],
+"series-60192e83c9e05":[
+  {"key":"cateId","name":"分类","value":[
+{"v":"series-60192e83c9e05","n":"其他影片"}, {"v":"series-63963ea949a82","n":"其他亚洲影片"}, {"v":"series-63963de3f2a0f","n":"门事件"}, {"v":"series-6396404e6bdb5","n":"其他欧美影片"}
 ]
 },
   {"key":"by","name":"排序","value":[
