@@ -50,7 +50,7 @@
 "分类片单链接加前缀":"https://xchina.co",
 "分类片单链接加后缀":"",
 //搜索是一级
-"搜索请求头参数":"User-Agent$手机",
+"搜索请求头参数":"User-Agent$PC_UA",
 //搜索链接https://xchina.co/videos/keyword-美女/3.html
 "搜索链接":"https://xchina.co/videos/keyword-{wd}/{SearchPg}.html",
 //搜索链接本身如果没有搜索词的话需要把POST请求数据改成"searchword={wd}"
