@@ -423,7 +423,7 @@
       "type": 3,
       "searchable": 1,
       "quickSearch": 0,
-	//"changeable": 0,
+     // "changeable": 0,
       "jar":"https://gh-proxy.com/raw.githubusercontent.com/wanganni/yinshiyuan/main/tv/gm/gm.jar",
       "style": {
         "type": "rect",
@@ -468,7 +468,11 @@
         }
       }
     },   
-   {
+    
+    //
+    
+    
+    {
       "key": "netflav(gm)",
       "name": "NETFLAV(gm)",
       "type": 3,
@@ -567,14 +571,16 @@
 {"key": "旺旺资源","name": "旺旺[短剧]🌈","type": 1,"api": "https://wwzy.tv/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": [ ]},
 {"key": "花旗资源","name": "花旗资源🌈","type": 1,"api": "https://www.seacms.org/api.php/provide/vod/?ac=list","searchable": 1,"quickSearch": 1, "categories": [],"style": {"type": "rect","ratio": 0.7}},
 {"key": "免费短视频资源","name": "免费短视频🌈","type": 1,"api": "https://api.zeqaht.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": [ ]},
-{"key": "量子","name": "🔞成人频道[量子]🌈","type": 0,"api": "http://lzizy8.com/api.php/provide/vod/from/lzm3u8/at/xml/","searchable": 1,"changeable": 1,"categories": [      ]//分类用用引号分类逗号分割},
-{"key": "非凡","name": "🔞成人频道[非凡]🌈","type": 1,"api": "http://ffzy3.tv/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["短剧","伦理片"]},
-{"key": "无尽","name": "🔞成人频道[无尽]🌈","type": 1,"api": "https://api.wujinapi.me/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
-{"key": "ikun","name": "🔞成人频道[ikun]🌈","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
-{"key": "速播","name": "🔞成人频道[速播]🌈","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
-{"key": "sd","name": "🔞成人频道[闪电]🌈","type": 1,"api": "https://sdzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理","港台三级","韩国伦理"]},
-{"key": "百度","name": "🔞成人频道[百度]🌈","type": 1,"api": "https://bdzy2.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
-{"key": "光速","name": "🔞成人频道[光速]🌈","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+{"key": "量子","name": "🔞� 成人频道[量子]🌈","type": 0,//type＝0api为xml，type＝1api为json
+   "api": "http://lzizy8.com/api.php/provide/vod/from/lzm3u8/at/xml/","searchable": 1,"changeable": 1,"categories": [      ]//分类用用引号分类逗号分割
+ },
+{"key": "非凡","name": "🔞� 成人频道[非凡]🌈","type": 1,"api": "http://ffzy3.tv/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["短剧","伦理片"]},
+{"key": "无尽","name": "🔞� 成人频道[无尽]🌈","type": 1,"api": "https://api.wujinapi.me/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+{"key": "ikun","name": "🔞� 成人频道[ikun]🌈","type": 1,"api": "https://ikunzyapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+{"key": "速播","name": "🔞� 成人频道[速播]🌈","type": 1,"api": "https://subocaiji.com/api.php/provide/vod/from/subyun/at/json","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+{"key": "sd","name": "🔞� 成人频道[闪电]🌈","type": 1,"api": "https://sdzyapi.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理","港台三级","韩国伦理"]},
+{"key": "百度","name": "🔞� 成人频道[百度]🌈","type": 1,"api": "https://bdzy2.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
+{"key": "光速","name": "🔞� 成人频道[光速]🌈","type": 1,"api": "https://api.guangsuapi.com/api.php/provide/vod","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key": "金鹰","name": "🔞� 成人频道[金鹰]🌈","type": 1,"api": "https://jyzyapi.com/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key": "卧龙","name": "🔞� 成人频道[卧龙]🌈","type": 1,"api": "https://collect.wolongzyw.com/api.php/provide/vod/","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
 {"key": "豪华","name": "🔞� 成人频道[豪华]🌈","type": 1,"api": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8?ac=list","searchable": 1,"changeable": 1,"categories": ["伦理片"]},
